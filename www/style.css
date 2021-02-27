@@ -340,7 +340,7 @@ label {
 
 .footer-bottom {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr auto;
     grid-template-rows: 1fr;
     gap: 1em;
 }
