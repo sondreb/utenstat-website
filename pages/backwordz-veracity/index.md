@@ -1,5 +1,7 @@
 # BackWordz – Veracity
 
+#### 20. november 2016 | Sondre Bjellås
+
 BackWordz er et relativt nytt musikkband som produserer anarko-kapitalistisk hip hop/metal. De har frem til nå gitt ut flere gode singeler, men endelig er deres første album ute, nemlig Veracity!
 
 ![](veracity.jpg)
