@@ -65,3 +65,21 @@
         <p class="date">21. september 2015</p>
     </div>
 </a>
+
+<a class="post" href="slik-fungerer-hjernen">
+    <div class="thumbnail"><img src="slik-fungerer-hjernen/hjernen.png"></div>
+    <div class="abstract">
+        <h3>Slik fungerer hjernen</h3>
+        <p class="p1">Hvis man gjør et søk på nettet etter «slik fungerer hjernen» eller «hvordan virker hjernen?» så er det ganske triste greier som kommer opp som resultat.</p>
+        <p class="date">25. juli 2015</p>
+    </div>
+</a>
+
+<a class="post" href="anarkisme-er-ikke-liberalisme">
+    <div class="thumbnail"><img src="anarkisme-er-ikke-liberalisme/nature.jpg"></div>
+    <div class="abstract">
+        <h3>Anarkisme er ikke liberalisme</h3>
+        <p class="p1">Det er ikke slik at anarkisme er en høyre-orientert politikk eller har noen særlig relasjon med liberalisme. </p>
+        <p class="date">8. mars 2015</p>
+    </div>
+</a>
