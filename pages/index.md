@@ -92,3 +92,12 @@
         <p class="date">18. februar 2015</p>
     </div>
 </a>
+
+<a class="post" href="selvsagt-har-vi-ikke-fri-vilje">
+    <div class="thumbnail"><img src="selvsagt-har-vi-ikke-fri-vilje/water.jpg"></div>
+    <div class="abstract">
+        <h3>Selvsagt har vi ikke fri vilje</h3>
+        <p class="p1">Vet du hvorfor vann noen ganger blir omtalt som H2O? Fordi vann er en molekylær binding av to hydrogen-atomer og ett oksygen atom. </p>
+        <p class="date">13. februar 2015</p>
+    </div>
+</a>
