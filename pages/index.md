@@ -110,3 +110,12 @@
         <p class="date">13. august 2014</p>
     </div>
 </a>
+
+<a class="post" href="hjernen-er-alene">
+    <div class="thumbnail"><img src="hjernen-er-alene/hjernen_er_alene.jpg"></div>
+    <div class="abstract">
+        <h3>Hjernen er alene</h3>
+        <p class="p1">Har du tenkt over hva du ønsker mer av i livet ditt, hva du ønsker å oppnå? Det er ikke alltid så lett å vite hva man ønsker seg, noen ganger vet man rett og slett ikke hvorfor man liker noe, fremfor noe annet.</p>
+        <p class="date">4. august 2014</p>
+    </div>
+</a>
