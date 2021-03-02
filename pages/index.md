@@ -47,3 +47,13 @@
         <p class="date">24. september 2016</p>
     </div>
 </a>
+
+
+<a class="post" href="nar-bias-tar-overhand">
+    <div class="thumbnail"><img src="nar-bias-tar-overhand/evidence.png"></div>
+    <div class="abstract">
+        <h3>Når bias tar overhånd</h3>
+        <p class="p1">Jeg har lenge tenkt å skrive litt om vitenskap, skepsis og hvordan vitenskapelige begrep og ord, ofte blir misbrukt til å forlede oss inn i vranglære. </p>
+        <p class="date">8. oktober 2015</p>
+    </div>
+</a>
