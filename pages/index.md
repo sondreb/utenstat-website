@@ -48,12 +48,20 @@
     </div>
 </a>
 
-
 <a class="post" href="nar-bias-tar-overhand">
     <div class="thumbnail"><img src="nar-bias-tar-overhand/evidence.png"></div>
     <div class="abstract">
         <h3>Når bias tar overhånd</h3>
-        <p class="p1">Jeg har lenge tenkt å skrive litt om vitenskap, skepsis og hvordan vitenskapelige begrep og ord, ofte blir misbrukt til å forlede oss inn i vranglære. </p>
+        <p class="p1">Jeg har lenge tenkt å skrive litt om vitenskap, skepsis og hvordan vitenskapelige begrep og ord, ofte blir misbrukt til å forlede oss inn i vranglære.</p>
         <p class="date">8. oktober 2015</p>
+    </div>
+</a>
+
+<a class="post" href="frihet-i-ditt-liv">
+    <div class="thumbnail"><img src="frihet-i-ditt-liv/flower.jpg"></div>
+    <div class="abstract">
+        <h3>Frihet i ditt liv</h3>
+        <p class="p1">Et gjennomgående budskap i tekstene på utenstat.no, er å skape forandring og forbedring i ditt eget liv.</p>
+        <p class="date">21. september 2015</p>
     </div>
 </a>
