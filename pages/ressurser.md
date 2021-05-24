@@ -16,6 +16,6 @@ Samling av ressurser og bøker som anbefales.
 
 [Anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)
 
-[Stephan Kinsella](http://www.stephankinsella.com/)
+[Stephan Kinsella](https://www.stephankinsella.com/)
 
 [Ludwig von Mises (Sverige)](https://www.mises.se/)
