@@ -22,7 +22,7 @@ Jeg vil takke alle som viser sin støtte til meg og denne bloggen. Tilbakemeldin
 
 Anbefaler å starte med den første bloggposten og deretter gå videre i kronologisk rekkefølge. Lenker til neste eller forrige bloggpost er tilgjengelig på toppen av hver bloggpost.
 
-## Introduksjon til frihet uten stat.
+[Introduksjon til frihet uten stat](introduksjon_til_frihet_uten_stat).
 
 ## Kommentarer
 
