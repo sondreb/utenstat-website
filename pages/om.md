@@ -16,7 +16,7 @@ Fordi vi som mennesker er i en evig utviklingsprosess, ingen mennesker er like o
 
 ## Støtte og donasjoner
 
-Jeg vil takke alle som viser sin støtte til meg og denne bloggen. Tilbakemeldinger er alltid gledelig og det hjelper å holde motivasjonen til å skrive oppe.
+Jeg vil takke alle som viser sin støtte til meg og denne bloggen. Tilbakemeldinger er alltid gledelig og det hjelper å holde motivasjonen til å skrive oppe. Donasjoner mottas med hjertelig takk og vil være med å gjøre det mulig for meg å fortsette arbeidet med å spre ideer om frihet og frivillighet. Donasjoner kan gjøres ved hjelp av [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TJQE7CLL433GN&lc=GB&item_name=UtenStat.no&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted).
 
 ## Ny på UtenStat.no?
 
