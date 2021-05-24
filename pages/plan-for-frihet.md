@@ -15,8 +15,8 @@ Dette er en levende plan som oppdateres gjevnlig og dine tilbakemeldinger er vik
 
 ## Innholdsfortegnelse
 
-* Et frivillighetssamfunn
-* En reise mot det bedre
+* [Et frivillighetssamfunn](et-frivillighets-samfunn)
+* [En reise mot det bedre](en-reise-mot-det-bedre)
 * Lag din plan for frihet
 * Hvordan bli fri i en verden uten frihet
 * Produsere din egen mat
